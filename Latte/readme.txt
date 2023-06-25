@@ -1,0 +1,2 @@
+//compile
+csc latte.cs
